@@ -76,7 +76,7 @@ This Excel-based dashboard offers a comprehensive view of Vrinda Store’s sales
 
 ## 📎 Screenshot
 
-![Vrinda Dashboard Screenshot](Vrinda.png)
+![Vrinda Dashboard Screenshot](Vrinda.PNG)
 
 ---
 
